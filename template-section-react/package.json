@@ -1,0 +1,11 @@
+{
+  "name": "@aotu-cli/template-section-react",
+  "version": "1.0.0",
+  "description": "react 代码片段",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xikun",
+  "license": "ISC"
+}
