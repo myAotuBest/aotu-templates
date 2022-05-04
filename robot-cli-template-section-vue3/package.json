@@ -1,0 +1,12 @@
+{
+  "name": "robot-cli-template-section-vue3",
+  "version": "1.0.0",
+  "description": "vue3 的代码片段",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "xikun",
+  "license": "ISC"
+}
